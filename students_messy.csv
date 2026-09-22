@@ -1,0 +1,106 @@
+ID,Name,Age,Gender,City,Subject,Score,StudyHours,Absences,Date
+50,Sam Bold,17.0,F, paris,History,90.0,3.1,6,2025-04-13
+82,Mina Delger,15.0,F,tokyo,Math,60.0,0.5,7,2025-06-20
+78,Ken Wang,16.0,F,Zurich,English,80.0,1.0,1,2025-04-16
+92,Sam Tsetseg,16.0,F,Seoul,History,94.0,2.7,0,2025-06-20
+27,Daniel Kim,17.0,M,PARIS,CS,92.0, 3.7 ,2,2025-02-10
+60,Alex Erdene,17.0,F,NEW YORK,History, 61.0 ,0.7,6,2025-03-07
+21,Mina Bayar,16.0,F,tokyo,Science,67.0,,3,2025-05-05
+95,Bold Ito,18.0,F,,Math, 67.0 ,4.0,6,2025-03-26
+14,Javkhlan Lee,14.0,M,paris ,Science,79.0,0.5,4,2025-05-25
+51,Saruul Suren,14.0,F,new york,History,64.0, 1.3 ,8,2025-04-02
+97,Enkh Wang,18.0,M,Seoul,English,85.0,3.9,6,2025-04-11
+6,Anu Ito,16.0,F,London,Math, 52.0 ,3.5,4,2025-01-28
+98,Bold Bold,18.0,M,DUBAI,History,52.0,1.9,7,2025-06-26
+34,Mei Park,14.0,F,,Math,56.0,3.8,2,2025-03-10
+75,Nara Tsetseg,15.0,M,Seoul,CS, 98.0 ,2.9,4,2025-01-27
+94,Enkh Chen,16.0,M,,History,80.0, 1.6 ,8,2025-02-13
+77,Sam Singh,16.0,F,London,History,56.0, 4.4 ,9,2025-03-16
+47,Bold Johnson,17.0,F,TOKYO ,CS,69.0,2.3,0,2025-03-10
+23,Sophie Johnson,17.0,M,New york,Math,,3.4,10,2025-01-02
+13,Daniel Ito,17.0,M,tokyo  ,Math,93.0,3.7,10,2025-05-25
+72,Saruul Chen,17.0,M,new york,Math,55.0, 1.8 ,6,2025-06-08
+16,Rio Bat,18.0,M, paris,Math, 57.0 ,,4,2025-02-02
+12,Mina Bayar,14.0,F,London,Science,100.0,3.6,9,2025-01-13
+53,Hana Ito,18.0,M,New york,CS,78.0,4.5,7,2025-04-09
+71,Javkhlan Ito,16.0,F,tokyo,Science,,1.6,6,2025-04-18
+46,Tuvshin Park,18.0,M,LONDON,History,,2.3,4,2025-05-05
+38,Sophie Khan,18.0,F, paris,Science,52.0,,0,2025-03-07
+19,Bold Park,17.0,M,Paris,CS,78.0,1.0,3,2025-01-11
+44,Joon Johnson,16.0,M,paris ,CS,82.0,1.0,9,2025-02-09
+3,Mei Johnson,15.0,M,tokyo  ,English,50.0, 3.9 ,2,2025-06-14
+18,Ken Singh,15.0,M,tokyo  ,CS,77.0,4.8,8,2025-06-23
+59,Daniel Delger,17.0,F, Tokyo,CS,51.0,4.6,9,2025-05-22
+66,Tuvshin Khan,14.0,M,tokyo  ,History,,,8,2025-06-11
+31,Javkhlan Tsetseg,16.0,F,Seoul,History, 58.0 ,3.5,4,2025-04-11
+94,Enkh Chen,16.0,M,,History,80.0, 1.6 ,8,2025-02-13
+85,Sam Delger,16.0,M,,Math,79.0,3.6,6,2025-03-17
+67,Alex Johnson,17.0,F,PARIS,English,90.0,4.5,7,2025-06-05
+41,Ken Bold,15.0,M,Seoul,English,100.0,4.4,3,2025-01-22
+81,Sara Johnson,16.0,F,TOKYO ,Math,,1.4,3,2025-03-22
+99,Daniel Smith,15.0,M,,Science,,4.8,5,2025-01-28
+28,Bold Bayar,18.0,F,London,English, 53.0 ,0.7,7,2025-05-28
+4,Erdene Kim,15.0,F,New york,English,56.0,0.9,1,2025-03-28
+34,Mei Park,14.0,F,,Math,56.0,3.8,2,2025-03-10
+52,Mei Bold,14.0,M,,History,92.0,2.9,8,2025-05-11
+37,Mei Johnson,18.0,F,Zurich,Math,94.0,4.6,8,2025-01-27
+22,Sara Khan,,F,NEW YORK,History,76.0,1.4,1,2025-06-14
+33,Saruul Garcia,16.0,F,Paris,CS,, 1.9 ,10,2025-05-01
+89,Tuvshin Delger,16.0,M, london,History,68.0, 3.5 ,6,2025-05-02
+80,Luna Ito,18.0,F,new york,CS,74.0,,7,2025-03-28
+74,Hana Kim,16.0,M,  dubai,Math,96.0,1.4,1,2025-06-18
+63,Bold Bat,18.0,F,Dubai,Science,80.0,3.5,9,2025-02-15
+36,Luna Kim,14.0,F,Seoul,Science,90.0,4.9,2,2025-06-15
+42,Bold Smith,16.0,M,new york,Math, 99.0 ,1.8,10,2025-05-13
+11,Mei Kim,18.0,M,tokyo,History, 73.0 ,1.5,2,2025-05-16
+96,Rio Kim,14.0,M,LONDON,English,87.0, 3.1 ,10,2025-04-28
+87,Mina Bold,18.0,F, new york ,English,86.0,,2,2025-04-17
+29,Rio Delger,,F, new york ,Science, 54.0 ,,10,2025-02-13
+79,Mina Khan,14.0,F,dubai ,CS, 69.0 ,0.9,3,2025-01-18
+30,Tuvshin Khan,15.0,F, Tokyo,Math,76.0,3.5,9,2025-05-11
+32,Mina Bat,17.0,F,Zurich,CS,63.0,2.8,2,2025-03-03
+55,Erdene Lee,18.0,F,  dubai,Science,64.0,,2,2025-06-07
+17,Saruul Khan,14.0,F,london ,History,54.0,4.9,8,2025-02-05
+85,Sam Delger,16.0,M,,Math,79.0,3.6,6,2025-03-17
+2,Luna Bayar,14.0,F,  dubai,Science, 82.0 , 3.2 ,8,2025-02-23
+88,Hana Kim,15.0,M,London,History, 55.0 ,2.6,6,2025-03-11
+10,Erdene Tsetseg,,M, london,History,59.0,1.7,3,2025-06-18
+5,Sophie Ito,16.0,F,,History,84.0,1.1,6,2025-01-18
+39,Saruul Khuu,16.0,M,TOKYO ,Science,65.0,4.4,2,2025-04-01
+81,Sara Johnson,16.0,F,TOKYO ,Math,,1.4,3,2025-03-22
+35,Joon Tsetseg,16.0,F, london,English, 82.0 ,2.7,0,2025-01-21
+65,Daniel Smith,15.0,F,TOKYO ,Science,56.0,3.6,4,2025-06-20
+62,Mei Bayar,16.0,F,,Math, 99.0 , 4.8 ,0,2025-01-08
+54,Saruul Kim,18.0,M,LONDON,Science,,2.5,4,2025-02-09
+83,Ken Park,14.0,F,Seoul,English, 94.0 ,4.4,1,2025-06-08
+25,Hana Bold,14.0,M,NEW YORK,CS,56.0,0.7,8,2025-01-03
+57,Sara Bat,18.0,M,paris ,Math,72.0,1.8,6,2025-04-18
+70,Daniel Lee,14.0,M,new york,English,61.0,2.7,5,2025-03-11
+64,Javkhlan Garcia,15.0,F,NEW YORK,Science,69.0,1.0,0,2025-03-19
+86,Mei Chen,,F, Tokyo,Math,77.0,3.8,9,2025-03-01
+61,Hana Lee,16.0,M,Seoul,History,66.0,4.3,7,2025-01-24
+20,Alex Khan,18.0,F,tokyo  ,Science,50.0,0.8,10,2025-01-08
+7,Saruul Khuu,17.0,M,PARIS,English,60.0,2.2,3,2025-06-09
+56,Mina Johnson,17.0,M,TOKYO ,History,76.0,0.8,6,2025-04-25
+76,Bold Park,15.0,M,dubai ,English,50.0,3.7,2,2025-03-02
+1,Tuvshin Bat,16.0,F,Dubai,Science, 97.0 , 1.0 ,8,2025-01-19
+45,Sam Johnson,14.0,F,Seoul,History,,4.8,5,2025-05-11
+8,Mina Ito,15.0,F,dubai ,History, 74.0 , 1.7 ,10,2025-06-18
+49,Nara Erdene,,M,Zurich,Science,93.0,1.9,3,2025-02-01
+82,Mina Delger,15.0,F,tokyo,Math,60.0,0.5,7,2025-06-20
+40,Nara Lee,17.0,F,Seoul,Science,,3.7,6,2025-01-28
+9,Saruul Lee,14.0,F,New york,Math,70.0,2.3,1,2025-02-19
+91,Mei Wang,17.0,F,Dubai,CS,73.0,3.3,7,2025-06-15
+43,Mei Lee,,F,Seoul,Science,87.0,4.8,4,2025-01-04
+90,Hana Erdene,16.0,M,Seoul,Math, 99.0 ,2.3,8,2025-01-22
+73,Anu Khan,16.0,M,tokyo  ,CS,72.0,2.4,8,2025-03-12
+100,Hana Khuu,18.0,M,Zurich,Science,76.0,,2,2025-01-16
+15,Nara Tran,,M, new york ,CS,88.0,1.4,5,2025-02-18
+58,Mei Ito,15.0,M,  dubai,English,77.0,,6,2025-03-22
+93,Saruul Delger,16.0,F, Tokyo,History,55.0, 1.5 ,1,2025-04-04
+24,Daniel Lee,14.0,F,DUBAI,Science,84.0,2.5,6,2025-02-09
+84,Javkhlan Khan,,M,Zurich,CS,,3.4,4,2025-02-03
+68,Luna Delger,18.0,M,tokyo  ,CS,99.0,2.7,6,2025-06-19
+26,Saruul Delger,17.0,M, paris,Science,75.0,,2,2025-04-01
+69,Javkhlan Lee,15.0,F,Seoul,History, 65.0 ,3.9,9,2025-05-22
+48,Bold Johnson,18.0,M, paris,History,78.0,3.5,8,2025-04-26
