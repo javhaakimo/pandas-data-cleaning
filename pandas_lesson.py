@@ -17,3 +17,5 @@ df["Score"] = pd.to_numeric(df["Score"], errors="coerce")
 df = df.drop_duplicates()
 
 df.info()
+
+print('Пандас гэрийн даалгаварп')
